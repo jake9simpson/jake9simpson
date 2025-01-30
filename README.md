@@ -1,64 +1,58 @@
-# Hey there, I’m Jake Simpson!
+# Hi, I’m Jake Simpson
 
-**Electrical Engineering @ University of Waterloo**  
-Passionate about harnessing emerging technologies (AI, blockchain, and Web3) and exploring how they intersect with finance and automation.
+I’m a second-year Electrical Engineering student at the University of Waterloo, where I focus on the intersection of technology and finance. Over two co-op terms at **Nokia**, I gained hands-on experience automating network tasks, scripting in Python/Bash, and building front-end tools (with YAML) for network simulations.
 
----
-
-## 🔧 Experience & Highlights
-
-- **5G Network Validation Engineer (Co-op) @ Nokia**  
-  Worked on replicating the 5G access network for a major Tier 1 service provider. Built test automation frameworks in Python and Bash, improved regression testing coverage, and streamlined network configuration.
-
-- **Lab Solutions Engineer (Co-op) @ Verizon**  
-  Created a Python automation framework to set up a cell site aggregation network, enabling real-time performance monitoring. Collaborated with cross-functional teams to summarize best practices in network topology.
-
-- **Volunteer Content Support @ Khan Academy**  
-  Provide step-by-step guidance to learners on math and computer science questions in Khan Academy’s online forums.
+Outside the classroom and lab, I’m fascinated by **AI, blockchain, and the evolving landscape of automation**. I enjoy tackling technical challenges, optimizing workflows, and exploring how financial systems might adapt to emerging tech.
 
 ---
 
-## 🏅 Licenses & Certifications
-
-- **Networking Standards and Connections (Nokia)**  
-  Recognized for passing advanced coursework in networking protocols and connection technologies.  
-
-- **Pilot Certificate – Remotely Piloted Aircraft (Transport Canada)**  
-  Demonstrates strong operational knowledge of UAV flight rules and safety protocols.
-
----
-
-## ⚡ Skills
-
-- **Languages & Tools**: Python, C++, JavaScript, HTML/CSS, Bash, Git, Linux  
-- **Areas of Focus**: Computer Networking, Virtualization, Automation, AI, Blockchain/Crypto  
-- **Soft Skills**: Team collaboration, problem solving, and continuous self-learning
+## 🔧 Technical Skills
+- **Programming & Scripting**: Python, C++, Bash, JavaScript  
+- **Networking**: Routing (BGP, ISIS), TCP/IP, Virtualization, Linux  
+- **Automation**: Git/GitHub, CI/CD basics, YAML-based configuration  
+- **Web Dev**: HTML, CSS, JavaScript, Webflow
+- **Additional Interests**: Generative AI fundamentals, finance/trading libraries
 
 ---
 
-## 🌱 Current Interests
+## 💼 Experience Highlights
+### 5G Network Validation Engineer @ Nokia *(Sep 2024 – Dec 2024)*
+- Replicated a Tier‐1 5G access network in a lab environment.  
+- Developed a nightly regression test framework to validate baseline functionalities (ISIS, BGP, SSH).  
+- Diagnosed complex router setups, ensuring stable carrier‐grade performance.
 
-- **Financial Technology & Trading**: Algorithmic trading bots, crypto APIs, and data analysis libraries (see my [Finance/Trading GitHub list](#) for starred repos).  
-- **Bitcoin & Lightning Network**: Exploring decentralized infrastructure, privacy tools, and node implementations (see my [Bitcoin Ecosystem GitHub list](#)).  
-- **Home Automation & IoT**: Checking out open-source projects like Home Assistant and Node-RED.  
-- **Volunteering & Mentorship**: Engaging with educational platforms (Khan Academy) and supporting student communities in tech.
-
----
-
-## 📁 Projects & Gists
-
-- [**Networking Info Script**](https://gist.github.com/...) – A handy Bash script for macOS that displays public IP, local IP, gateway, and DNS servers.
-- Coming Soon: Additional open-source automation projects & tutorials.
+### Lab Solutions Engineer @ Nokia *(Jan 2024 – Apr 2024)*
+- Built a Python automation framework for a cell site aggregation network using virtual machine “digital twins.”  
+- Used Bash scripting to manage Linux file operations and refine networking tasks.  
+- Integrated YAML-based front‐end tools for quick topology configuration and traffic generation tests.
 
 ---
 
-## 🗣 Let’s Connect
+## 🎓 Education & Certifications
+- **Electrical Engineering @ University of Waterloo**  
+  - Relevant Courses: Data Structures & Algorithms (C++), project-based engineering labs
 
-- **LinkedIn**: [linkedin.com/in/jake9simpson]  
-- **GitHub**: You’re already here! Check out my pinned repos and [starred projects](https://github.com/jake9simpson?tab=stars).  
-
-I’m always open to collaboration or just chatting about emerging tech, network automation, and the future of finance. Feel free to drop me a message or open an issue in one of my repos!
+- **Key Certifications**  
+  - **Transport Layer Protocols**, **Networking Standards and Connections** – Nokia  
+  - **Introduction to Generative AI** – Google Cloud  
+  - **Pilot Certificate (Remotely Piloted Aircraft)** – Transport Canada  
+  - **Webflow 101** – Expired, but still handy for front-end basics
 
 ---
 
-*Thanks for stopping by. Keep innovating and exploring!*
+## 🌱 Interests & Causes
+- **Tech + Finance**: Algorithms, crypto, market data analysis  
+- **AI & Automation**: From scripting strategies to exploring advanced machine learning  
+- **Volunteering**: Support math and CS discussions on Khan Academy  
+- **Economic Empowerment & STEM Education**: Member of the American Finance Association (AFA), always looking for ways to broaden access to tech learning
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn**: [linkedin.com/in/jake9simpson](https://linkedin.com/in/jake9simpson)  
+- **Email**: [YourEmail@example.com](mailto:jake9simpson@icloud.com)  
+- **GitHub Gists**: [My Gist Snippets](https://gist.github.com/jake9simpson)
+
+---
+
+I’m always open to discussing emerging tech, automation ideas, and new opportunities in finance or AI. Thanks for stopping by, and feel free to reach out or take a peek at my repos and starred projects!
