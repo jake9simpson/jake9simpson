@@ -54,7 +54,7 @@ Passionate about harnessing emerging technologies (AI, blockchain, and Web3) and
 
 ## 🗣 Let’s Connect
 
-- **LinkedIn**: [linkedin.com/in/jake9simpson](#)  
+- **LinkedIn**: [linkedin.com/in/jake9simpson]  
 - **GitHub**: You’re already here! Check out my pinned repos and [starred projects](https://github.com/jake9simpson?tab=stars).  
 
 I’m always open to collaboration or just chatting about emerging tech, network automation, and the future of finance. Feel free to drop me a message or open an issue in one of my repos!
