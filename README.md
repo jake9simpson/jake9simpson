@@ -50,7 +50,7 @@ Outside the classroom and lab, I’m fascinated by **AI, blockchain, and the evo
 
 ## 📫 Let’s Connect
 - **LinkedIn**: [linkedin.com/in/jake9simpson](https://linkedin.com/in/jake9simpson)  
-- **Email**: [YourEmail@example.com](mailto:jake9simpson@icloud.com)  
+- **Email**: [jake9simpson@icloud.com](mailto:jake9simpson@icloud.com)  
 - **GitHub Gists**: [My Gist Snippets](https://gist.github.com/jake9simpson)
 
 ---
