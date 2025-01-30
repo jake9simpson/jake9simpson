@@ -9,7 +9,7 @@ Outside the classroom and lab, I’m fascinated by **AI, blockchain, and the evo
 ## 🔧 Technical Skills
 - **Programming & Scripting**: Python, C++, Bash, JavaScript  
 - **Networking**: Routing (BGP, ISIS), TCP/IP, Virtualization, Linux  
-- **Automation**: Git/GitHub, CI/CD basics, YAML-based configuration  
+- **Automation**: Git/GitHub, YAML-based configuration  
 - **Web Dev**: HTML, CSS, JavaScript, Webflow
 - **Additional Interests**: Generative AI fundamentals, finance/trading libraries
 
